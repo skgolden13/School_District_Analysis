@@ -9,9 +9,9 @@ The analysis was performed using python 3.7 and the jupyter notebook. The pandas
 The term "original analysis" refers to the initial analysis performed while "updated analysis" refers to the analysis performed after excluding the affected scores.
 
 All raw data files can be found [here](https://github.com/skgolden13/School_District_Analysis/tree/main/Resources).<br/>
-All data frame images can be found [here](https://github.com/skgolden13/School_District_Analysis/tree/main/Images).<br/>
+All data frame images can be found [here]().<br/>
 The jupyter notebook file for the original analysis can be found [here](https://github.com/skgolden13/School_District_Analysis/blob/main/PyCitySchools.ipynb).<br/>
-The jupyter notebook file for the updated analysis can be found [here](https://github.com/skgolden13/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).
+The jupyter notebook file for the updated analysis can be found [here]().
 
 ## Analysis Results
 
@@ -87,7 +87,7 @@ The school spending summary was not affected by the updated analysis. The school
   <img width="900" alt="Spending_Summary" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/Spending_Summary.PNG"><br/>
   Figure 11: Original School Spending Summary<br/>
   <br/>
-  <img width="900" alt="Updated_Spending_Summary" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/Updated_Spending_Summary.PNG"><br/>
+  <img width="900" alt="Updated_Spending_Summary" src=""><br/>
   Figure 12: Updated School Spending Summary<br/>
 </p>
 
@@ -99,7 +99,7 @@ The school size summary was not affected by the updated analysis. The school siz
   <img width="900" alt="Size_Summary" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/Size_Summary.PNG"><br/>
   Figure 13: Original School Size Summary<br/>
   <br/>
-  <img width="900" alt="Updated_Size_Summary" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/Updated_Size_Summary.PNG"><br/>
+  <img width="900" alt="Updated_Size_Summary" src=""><br/>
   Figure 14: Updated School Size Summary<br/>
 </p>
 
