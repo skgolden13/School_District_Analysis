@@ -21,7 +21,7 @@ The district summary was not significantly affected by removing the 9<sup>th</su
   - Average math score dropped 0.1%
   - Percent of students passing math dropped 0.2%
   - Percent of students passing reading dropped 0.3%
-  - Percent of students passing both dropped 0.1%
+  - Percent of students passing both math and reading dropped 0.1%
 
 <p align="center">
   <img width="900" alt="District_Summary" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/District_Summary.PNG"><br/>
@@ -116,3 +116,16 @@ The school type summary was not affected by the updated analysis. The school typ
 </p>
 
 ## Analysis Summary
+
+The updated analysis saw few changes to the district performance metrics. The major changes seen in the data were:
+- Average district math score dropped 0.1%
+- Percent of students passing math in the district dropped 0.2%
+- Percent of students passing reading in the district dropped 0.3%
+- Percent of students passing both math and reading in the district dropped 0.1%
+- Percent of students passing math at Thomas High School dropped roughly 0.3%
+- Percent of students passing reading at Thomas High School dropped roughly 0.3%
+- Percent of students passing both math and reading at Thomas High School dropped roughly 0.3%
+- Average math grade for 9<sup>th</sup> graders at Thomas High School was replaced with NaN
+- Average reading grade for 9<sup>th</sup> graders at Thomas High School was replaced with NaN
+
+Thomas High School remained the second rated school by overall percent passing in the district. The metrics for schools by spending, size, and type of school remained unchanged.
