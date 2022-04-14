@@ -6,6 +6,8 @@ Evidence of academic dishonesty has been found in the students_complete.csv file
 
 The analysis was performed using python 3.7 and the jupyter notebook. The pandas and numpy libraries were used for analysis and calculations.
 
+The term "original analysis" refers to the initial analysis performed while "updated analysis" refers to the analysis performed after excluding the affected scores.
+
 All raw data files can be found [here](https://github.com/skgolden13/School_District_Analysis/tree/main/Resources).<br/>
 All data frame images can be found [here](https://github.com/skgolden13/School_District_Analysis/tree/main/Images).<br/>
 The jupyter notebook file for the original analysis can be found [here](https://github.com/skgolden13/School_District_Analysis/blob/main/PyCitySchools.ipynb).<br/>
@@ -14,6 +16,12 @@ The jupyter notebook file for the updated analysis can be found [here](https://g
 ## Analysis Results
 
 ### District Summary
+
+The district summary was not significantly affected by removing the 9<sup>th</sup> grade Thomas High School scores. The following changes can be seen between the original analysis (Figure 1) and the updated analysis (Figure 2):
+  - Average math score dropped 0.1%
+  - Percent of students passing math dropped 0.2%
+  - Percent of students passing reading dropped 0.3%
+  - Percent of students passing both dropped 0.1%
 
 <p align="center">
   <img width="900" alt="District_Summary" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/District_Summary.PNG"><br/>
@@ -25,6 +33,8 @@ The jupyter notebook file for the updated analysis can be found [here](https://g
 
 ### School Summary
 
+The metrics for Thomas High School saw no change for the average math and reading scores and a roughly 0.3% drop for the percent passing math, reading, and both. The original and updated school summary data frames can be seen below as Figures 3 and 4 respectively.
+
 <p align="center">
   <img width="900" alt="School_Summary" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/School_Summary.PNG"><br/>
   Figure 3: Original School Summary<br/>
@@ -34,6 +44,8 @@ The jupyter notebook file for the updated analysis can be found [here](https://g
 </p>
 
 ### Top Schools Summary
+
+With the minimal decrease in the percent of students passing overall, Thomas High School remained the second highest performing school in the district. The top five schools summary for the original and updated analysis can be seen below as Figures 5 and 6 respectively.
 
 <p align="center">
   <img width="900" alt="Top_Schools" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/Top_Schools.PNG"><br/>
@@ -45,6 +57,8 @@ The jupyter notebook file for the updated analysis can be found [here](https://g
 
 ### Math Scores by Grade
 
+Math scores by grade are unaffected by the updated analysis aside from the value for 9<sup>th</sup> at Thomas High School being replaced by "NaN." The math scores by grade for the original and updated analysis can be seen below as Figures 7 and 8 respectively.
+
 <p align="center">
   <img width="450" alt="Math_Scores" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/Math_Scores.PNG"><br/>
   Figure 7: Original Math Scores by Grade<br/>
@@ -54,6 +68,8 @@ The jupyter notebook file for the updated analysis can be found [here](https://g
 </p>
 
 ### Reading Scores by Grade
+
+Reading scores by grade are unaffected by the updated analysis aside from the value for 9<sup>th</sup> at Thomas High School being replaced by "NaN." The reaading scores by grade for the original and updated analysis can be seen below as Figures 9 and 10 respectively.
 
 <p align="center">
   <img width="450" alt="Reading_Scores" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/Reading_Scores.PNG"><br/>
@@ -65,6 +81,8 @@ The jupyter notebook file for the updated analysis can be found [here](https://g
 
 ### School Spending Summary
 
+The school spending summary was not affected by the updated analysis. The school spending summary for the original and updated analysis can be seen below as Figures 11 and 12.
+
 <p align="center">
   <img width="900" alt="Spending_Summary" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/Spending_Summary.PNG"><br/>
   Figure 11: Original School Spending Summary<br/>
@@ -75,6 +93,8 @@ The jupyter notebook file for the updated analysis can be found [here](https://g
 
 ### School Size Summary
 
+The school size summary was not affected by the updated analysis. The school size summary for the original and updated analysis can be seen below as Figures 13 and 14.
+
 <p align="center">
   <img width="900" alt="Size_Summary" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/Size_Summary.PNG"><br/>
   Figure 13: Original School Size Summary<br/>
@@ -84,6 +104,8 @@ The jupyter notebook file for the updated analysis can be found [here](https://g
 </p>
 
 ### School Type Summary
+
+The school type summary was not affected by the updated analysis. The school type summary for the original and updated analysis can be seen below as Figures 15 and 16.
 
 <p align="center">
   <img width="900" alt="Type_Summary" src="https://github.com/skgolden13/School_District_Analysis/blob/main/Images/Type_Summary.PNG"><br/>
