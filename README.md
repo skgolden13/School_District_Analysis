@@ -2,7 +2,14 @@
 
 ## Project Overview
 
+Evidence of academic dishonesty has been found in the students_complete.csv file for 9<sup>th</sup> graders at Thomas High School. To uphold state-testing standards, the original standardized testing analysis for the school district has been updated to replace math and reading scores for the affected students with NaNs. Images of the pandas data frames from both the original and updated analysis are included for comparison.
 
+The analysis was performed using python 3.7 and the jupyter notebook. The pandas and numpy libraries were used for analysis and calculations.
+
+All raw data files can be found [here](https://github.com/skgolden13/School_District_Analysis/tree/main/Resources).<br/>
+All data frame images can be found [here](https://github.com/skgolden13/School_District_Analysis/tree/main/Images).<br/>
+The jupyter notebook file for the original analysis can be found [here](https://github.com/skgolden13/School_District_Analysis/blob/main/PyCitySchools.ipynb).<br/>
+The jupyter notebook file for the updated analysis can be found [here](https://github.com/skgolden13/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).
 
 ## Analysis Results
 
