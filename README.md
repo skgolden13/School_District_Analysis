@@ -55,6 +55,10 @@ With the minimal decrease in the percent of students passing overall, Thomas Hig
   Figure 6: Updated Top Five Schools<br/>
 </p>
 
+### Bottom Schools Summary
+
+With Thomas High School remaining the second highest performing school in the district, the bottom five schools remained unchanged in both order and metrics. The images for the original and updated analysis data frames can be found in the [images folder](https://github.com/skgolden13/School_District_Analysis/tree/main/Images) if needed.
+
 ### Math Scores by Grade
 
 Math scores by grade are unaffected by the updated analysis aside from the value for 9<sup>th</sup> at Thomas High School being replaced by "NaN." The math scores by grade for the original and updated analysis can be seen below as Figures 7 and 8 respectively.
